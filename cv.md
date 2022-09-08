@@ -29,5 +29,5 @@ console.log(mergeArrays([-5,2,2, 5], [-1,3,4]));
 
 
 ### Language:
-Russian - native
-English level - Upper Intermediate
+- Russian - native
+- English level - Upper Intermediate
